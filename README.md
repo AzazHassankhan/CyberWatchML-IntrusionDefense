@@ -1,6 +1,6 @@
 # 🚗 Intrusion Detection for Automobiles with Machine Learning 🛡️
 
-Welcome to the "Intrusion Detection using Machine Learning in Automobiles" repository! 🌟 This project is all about enhancing vehicle security using advanced machine learning techniques. We employ algorithms and statistical models to safeguard your car and its precious cargo against unauthorized access and theft. 🤖
+Welcome to the "Intrusion Detection using Machine Learning in Automobiles" repository! 🌟 This project is all about enhancing vehicle security using advanced machine learning techniques. We employ algorithms and statistical models to safeguard your car and its precious cargo against unauthorized access and theft.
 
 ### 🌐 How It Works:
 Our system analyzes data from an array of sensors and cameras strategically placed in and around the vehicle. These sensors include door sensors, motion detectors, and proximity sensors. The magic happens when our machine learning algorithms kick in, identifying abnormal patterns and behaviors. 🔍
